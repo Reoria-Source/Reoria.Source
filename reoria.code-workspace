@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "source/client"
+		},
+		{
+			"path": "source/server"
+		},
+		{
+			"path": "source/libraries"
+		},
+		{
+			"path": "source/editors"
+		},
+		{
+			"path": "source/editors.mapeditor"
+		}
+	]
+}
