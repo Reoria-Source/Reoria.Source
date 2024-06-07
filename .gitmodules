@@ -1,0 +1,15 @@
+[submodule "source/editors.mapeditor"]
+	path = source/editors.mapeditor
+	url = https://github.com/Reoria-Source/Reoria.Editors.MapEditor.git
+[submodule "source/server"]
+	path = source/server
+	url = https://github.com/Reoria-Source/Reoria.Server.git
+[submodule "source/libraries"]
+	path = source/libraries
+	url = https://github.com/Reoria-Source/Reoria.Libraries.git
+[submodule "source/client"]
+	path = source/client
+	url = https://github.com/Reoria-Source/Reoria.Client.git
+[submodule "source/editors"]
+	path = source/editors
+	url = https://github.com/Reoria-Source/Reoria.Editors.git
